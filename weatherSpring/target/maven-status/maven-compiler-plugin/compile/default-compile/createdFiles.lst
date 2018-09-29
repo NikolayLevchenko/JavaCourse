@@ -1,0 +1,4 @@
+telran\hotcities\exception\SomeCitiesNotFoundException.class
+telran\hotcities\config\CustomClientHttpRequestInterceptor.class
+telran\hotcities\exception\RestExceptionHandler.class
+telran\hotcities\config\CustomRestTemplateCustomizer.class

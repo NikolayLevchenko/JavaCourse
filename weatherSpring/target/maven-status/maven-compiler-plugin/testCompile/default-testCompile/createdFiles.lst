@@ -1,0 +1,4 @@
+telran\hotcities\controller\HotCityResourceMockMvcTest.class
+telran\hotcities\controller\HotCityResourceWebServiceTest.class
+telran\hotcities\controller\HotCityResourceIntegrationTest.class
+telran\hotcities\controller\WeatherServiceTest.class
